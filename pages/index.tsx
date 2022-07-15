@@ -50,17 +50,17 @@ const Home: NextPage = () => {
           проверьте это.
         </p>
         <div className="flex items-center justify-center gap-20">
-          <Link href="/">
+          <Link href="https://www.instagram.com/pixbox.electronics/">
             <a>
               <GrInstagram className="w-[50px] h-[50px] hover:fill-[#9147fe] fill-[#ff0062]" />
             </a>
           </Link>
-          <Link href="/">
+          <Link href="https://wa.link/7jno4q">
             <a>
               <BsWhatsapp className="w-[50px] h-[50px] hover:fill-[#9147fe] fill-[#00a357]" />
             </a>
           </Link>
-          <Link href="/">
+          <Link href="https://www.tiktok.com/@pixbox.kg">
             <a>
               <FaTiktok className="w-[50px] h-[50px] hover:fill-[#9147fe] fill-[#000000]" />
             </a>
